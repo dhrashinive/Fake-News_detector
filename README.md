@@ -1,4 +1,4 @@
-﻿# project Discription
+﻿# Project Description
 Of course, Dharshini! Here's a clean and professional **project description** for your **Fake News Detector**—you can use this in your GitHub `README.md`, LinkedIn, or resumes:
 
 ---
